@@ -248,7 +248,7 @@ Create a calendar for the Team and upload the following form.
 ## Step 2: Add the Repeater
  - team-repeater.tpl
 
-Add the following repeater shortcode. This should be placed within a &lt;ul&gt; tag in the navigation, and be shown when hovered. 
+Add the following repeater shortcode. 
 
 ```
 <div class="row py-5">
