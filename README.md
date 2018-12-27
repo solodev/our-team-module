@@ -320,3 +320,12 @@ Add the following repeater shortcode.
 [/entry] 
 
 ```
+
+## Step 4: Add the SCSS/CSS
+- /_/scss/team.scss
+
+```
+.w-25p {
+ width: 25px;
+}
+```
