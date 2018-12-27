@@ -325,7 +325,15 @@ Add the following repeater shortcode.
 - /_/scss/team.scss
 
 ```
+.bg-hover-secondary-dark {
+    background-color: #2b414e!important;
+}
+
+.w-225p {
+    width: 225px;
+}
+
 .w-25p {
- width: 25px;
+    width: 25px;
 }
 ```
